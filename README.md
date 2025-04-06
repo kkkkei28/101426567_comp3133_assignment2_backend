@@ -6,6 +6,13 @@ This full-stack application allows users to sign up, log in, and manage employee
 
 ---
 
+## ⚠ Note About Backend Deployment on Render
+Important:
+This application uses Render for backend hosting on the free tier.
+Please note that the server may take up to 30–60 seconds to wake up if it has been inactive for a while.
+
+Once active, the server will respond normally to requests.
+
 ## 🚀 Features
 
 - ✅ Signup, Login, and Logout with JWT authentication  
